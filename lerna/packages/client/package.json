@@ -24,6 +24,7 @@
     "url": "https://github.com/HolyMoly-tutorials/yarn-workspaces-and-berry/issues"
   },
   "dependencies": {
+    "common": "0.0.0",
     "react": "^18.2.0"
   }
 }
