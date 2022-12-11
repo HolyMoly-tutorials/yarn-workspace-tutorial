@@ -1,0 +1,26 @@
+{
+  "name": "common",
+  "version": "0.0.0",
+  "description": "this is common",
+  "author": "jun094 <jun094@naver.com>",
+  "homepage": "https://github.com/HolyMoly-tutorials/yarn-workspaces-and-berry#readme",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolyMoly-tutorials/yarn-workspaces-and-berry.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/common.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/HolyMoly-tutorials/yarn-workspaces-and-berry/issues"
+  }
+}
